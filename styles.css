@@ -1,0 +1,12 @@
+h1, h5, table, .images {
+    display: flex;
+    justify-content: center;
+}
+
+th, td {
+    border: 1px solid gray;
+}
+
+.btn-link:hover {
+    text-decoration: none;
+}
